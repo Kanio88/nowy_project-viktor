@@ -349,9 +349,9 @@ function localBusinessSchema() {
     address: business.address,
     areaServed: business.areaServed,
     sameAs: [
-      'https://www.facebook.com/everydaycareplus',
-      'https://www.linkedin.com/in/grzegorz-rusinek-93362a336/',
-      'https://www.instagram.com/care.everyday/',
+      'https://www.facebook.com/share/18BruY1cxx/?mibextid=wwXIfr',
+      'https://www.linkedin.com/company/everyday-care/',
+      'https://www.instagram.com/care.everyday',
     ],
   }).replaceAll('</', '<\\/')
 }
