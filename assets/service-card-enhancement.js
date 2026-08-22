@@ -4,27 +4,27 @@
   const serviceCards = {
     '/services/dementia-care': {
       src: '/images/services/dementia-care.jpg',
-      alt: 'An older adult and carer looking through a photo album together at home.',
+      alt: 'An older man and carer exploring family photographs from a memory box.',
     },
     '/services/autism-neurodiversity': {
-      src: '/images/services/autism-neurodiversity.jpg',
-      alt: 'An adult and carer sharing a quiet creative activity at home.',
+      src: '/images/services/autism-neurodiversity.webp',
+      alt: 'A support worker and young person using a visual day planner in a calm room.',
     },
     '/services/personal-care': {
       src: '/images/services/personal-care.jpg',
-      alt: 'An older adult and carer choosing comfortable clothing together at home.',
+      alt: 'An older woman choosing clothing with a carer in a bright home bathroom.',
     },
     '/services/companionship': {
       src: '/images/services/companionship.jpg',
-      alt: 'An older adult and carer sharing a relaxed conversation over tea.',
+      alt: 'Two men enjoying a game of chess together outdoors.',
     },
     '/services/respite-reablement': {
       src: '/images/services/respite-reablement.jpg',
-      alt: 'An older adult building confidence while walking with a carer nearby.',
+      alt: 'An older woman practising a garden-path walk with a carer close by.',
     },
     '/services/medication-support': {
       src: '/images/services/medication-support.jpg',
-      alt: 'An older adult and carer calmly reviewing a weekly medication organiser.',
+      alt: 'An older woman and carer reviewing a weekly pill organiser beside a clock.',
     },
   }
 
