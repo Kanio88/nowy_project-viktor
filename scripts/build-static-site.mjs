@@ -386,6 +386,8 @@ function pageHtml(route) {
     <script type="application/ld+json">${localBusinessSchema()}</script>
     <script type="module" crossorigin src="/assets/index-bsoarxm1.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-lwumdtbf.css" />
+    <link rel="stylesheet" href="/assets/service-card-enhancement.css" />
+    <script defer src="/assets/service-card-enhancement.js"></script>
   </head>
   <body>
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4LLV7R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
