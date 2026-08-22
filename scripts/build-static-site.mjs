@@ -292,7 +292,7 @@ const escapeHtml = (value) => String(value)
   .replaceAll('"', '&quot;')
   .replaceAll("'", '&#039;')
 
-const absoluteUrl = (pathname) => pathname === '/' ? `${canonicalHost}/` : `${canonicalHost}${pathname}`
+const absoluteUrl = (pathname) => pathname === '/' ? `${canonicalHost}/` : `${canonicalHost}${pathname}/`
 
 function navigation() {
   return `

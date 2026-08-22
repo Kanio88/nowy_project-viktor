@@ -13,7 +13,7 @@ const descriptions = new Set()
 for (const route of manifest.routes) {
   const directory = route.path === '/' ? dist : path.join(dist, route.path.slice(1))
   const html = await readFile(path.join(directory, 'index.html'), 'utf8')
-  const expectedUrl = route.path === '/' ? `${host}/` : `${host}${route.path}`
+  const expectedUrl = route.path === '/' ? `${host}/` : `${host}${route.path}/`
   const title = html.match(/<title>([^<]+)<\/title>/)?.[1]
   const description = html.match(/<meta name="description" content="([^"]+)" \/>/)?.[1]
   const canonical = html.match(/<link rel="canonical" href="([^"]+)" \/>/)?.[1]
