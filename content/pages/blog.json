@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "blog",
+  "order": 11,
+  "urlPath": "/blog",
+  "title": "Home Care Guides & Family Resources | Everyday Care Plus",
+  "description": "Practical home-care guides for families in Sandwell and Dudley, covering dementia, funding, respite, autism support and choosing care.",
+  "h1": "Guides for Families Considering Home Care",
+  "intro": "Our guides are designed to help families ask useful questions, understand care options, and prepare for conversations about support at home.",
+  "sections": [
+    {
+      "heading": "Explore our guides",
+      "body": "Read practical articles about dementia support, choosing a home-care provider, funding, respite, and supporting autistic adults at home."
+    },
+    {
+      "heading": "Need to talk?",
+      "body": "A guide cannot replace a conversation about a real person’s circumstances. Contact us for a no-obligation discussion."
+    }
+  ]
+}

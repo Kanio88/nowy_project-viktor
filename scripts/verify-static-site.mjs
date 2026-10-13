@@ -5,7 +5,8 @@ import { fileURLToPath } from 'node:url'
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const dist = path.join(root, 'dist')
 const manifest = JSON.parse(await readFile(path.join(dist, 'build-manifest.json'), 'utf8'))
-const host = 'https://every-day-care.com'
+const site = JSON.parse(await readFile(path.join(root, 'content', 'site.json'), 'utf8'))
+const host = site.canonicalHost
 const failures = []
 const titles = new Set()
 const descriptions = new Set()
@@ -17,7 +18,7 @@ for (const route of manifest.routes) {
   const title = html.match(/<title>([^<]+)<\/title>/)?.[1]
   const description = html.match(/<meta name="description" content="([^"]+)" \/>/)?.[1]
   const canonical = html.match(/<link rel="canonical" href="([^"]+)" \/>/)?.[1]
-  const h1 = html.match(/<h1>([^<]+)<\/h1>/)?.[1]
+  const h1 = html.match(/<h1[^>]*>([^<]+)<\/h1>/)?.[1]
   if (!title) failures.push(`${route.path}: missing title`)
   if (!description) failures.push(`${route.path}: missing description`)
   if (!canonical || canonical !== expectedUrl) failures.push(`${route.path}: incorrect canonical`)

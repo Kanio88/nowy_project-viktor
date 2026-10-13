@@ -1,0 +1,16 @@
+{
+  "type": "page",
+  "pageId": "accessibility",
+  "order": 27,
+  "urlPath": "/accessibility",
+  "title": "Accessibility Statement | Everyday Care Plus",
+  "description": "Read the Everyday Care Plus accessibility statement for this website.",
+  "h1": "Accessibility Statement",
+  "intro": "We aim to make this website as accessible and usable as possible for a wide range of visitors.",
+  "sections": [
+    {
+      "heading": "Accessibility feedback",
+      "body": "If you experience a barrier when using this website, please contact us and explain what you were trying to do."
+    }
+  ]
+}

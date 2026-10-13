@@ -3,3 +3,9 @@
 
 # Generated static build output
 dist/
+
+# Dependencies
+node_modules/
+
+# Visual Editor local cache
+.stackbit/

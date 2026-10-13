@@ -6,15 +6,23 @@
     "dev": "vite",
     "build": "node scripts/build-static-site.mjs",
     "build:vite": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "dev:editor": "node scripts/visual-editor-dev.mjs --port 8089",
+    "visual-editor": "stackbit dev",
+    "verify": "node scripts/verify-static-site.mjs",
+    "test": "node scripts/verify-static-site.mjs"
   },
   "dependencies": {
+    "chromium": "^3.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.1"
   },
   "devDependencies": {
-    "vite": "^5.0.0",
-    "@vitejs/plugin-react": "^5.0.2"
+    "@stackbit/cli": "^0.3.136",
+    "@stackbit/cms-git": "^1.0.38",
+    "@stackbit/types": "^2.1.15",
+    "@vitejs/plugin-react": "^5.0.2",
+    "vite": "^5.0.0"
   }
 }
