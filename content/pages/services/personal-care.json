@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "services-personal-care",
+  "order": 4,
+  "urlPath": "/services/personal-care",
+  "title": "Personal Care at Home in Sandwell & Dudley | Everyday Care Plus",
+  "description": "Respectful personal care at home in Sandwell and Dudley, including support with daily routines, meals, dressing and personal hygiene.",
+  "h1": "Personal Care at Home",
+  "intro": "Our personal care support is delivered respectfully and with attention to dignity, privacy, routine, and individual preference.",
+  "sections": [
+    {
+      "heading": "Daily living support",
+      "body": "Depending on the agreed care plan, visits may support bathing, dressing, meals, mobility, personal routines, and day-to-day wellbeing."
+    },
+    {
+      "heading": "Care with dignity",
+      "body": "We take time to understand what matters to each person and aim to provide consistent, professional support in the familiarity of home."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "page",
+  "pageId": "book",
+  "order": 21,
+  "urlPath": "/book",
+  "title": "Book a Free Home Care Assessment | Everyday Care Plus",
+  "description": "Book a free, no-obligation home-care assessment with Everyday Care Plus for support in Sandwell and Dudley.",
+  "h1": "Book Your Free Home Care Consultation",
+  "intro": "Arrange a no-obligation conversation about the support you or your family member may need. Choose a home visit, telephone call, or online meeting where available.",
+  "sections": [
+    {
+      "heading": "What to expect",
+      "body": "We will listen to your situation, explain the assessment process, and discuss appropriate next steps. You can also call 07563 011 244."
+    }
+  ]
+}

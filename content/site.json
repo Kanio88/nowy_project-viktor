@@ -1,0 +1,116 @@
+{
+  "type": "siteConfig",
+  "canonicalHost": "https://every-day-care.com",
+  "business": {
+    "name": "Everyday Care Plus Ltd",
+    "url": "https://every-day-care.com",
+    "telephone": "+447563011244",
+    "email": "greg@every-day-care.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "22 Tudor Court",
+      "addressLocality": "Tipton",
+      "addressRegion": "West Midlands",
+      "postalCode": "DY4 8UU",
+      "addressCountry": "GB"
+    },
+    "areaServed": [
+      "Sandwell",
+      "Dudley",
+      "Tipton",
+      "Oldbury",
+      "West Bromwich",
+      "Smethwick",
+      "Walsall"
+    ]
+  },
+  "brandName": "Everyday Care Plus",
+  "schemaDescription": "Person-centred home care for adults and families across Sandwell and Dudley.",
+  "social": [
+    "https://www.facebook.com/share/18BruY1cxx/?mibextid=wwXIfr",
+    "https://www.linkedin.com/company/everyday-care/",
+    "https://www.instagram.com/care.everyday"
+  ],
+  "phoneDisplay": "07563 011 244",
+  "ogImage": "/images/og-image.jpg",
+  "themeColor": "#0f2041",
+  "gtmId": "GTM-WT4LLV7R",
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Guides",
+      "href": "/blog"
+    },
+    {
+      "label": "FAQs",
+      "href": "/faq"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    },
+    {
+      "label": "Book a free assessment",
+      "href": "/book"
+    }
+  ],
+  "contactCta": {
+    "heading": "Talk to Everyday Care Plus",
+    "bookHref": "/book",
+    "bookLabel": "book a free consultation"
+  },
+  "footer": {
+    "legalLine": "Everyday Care Plus Ltd · Based in Tipton, West Midlands",
+    "links": [
+      {
+        "label": "Privacy",
+        "href": "/privacy"
+      },
+      {
+        "label": "Cookies",
+        "href": "/cookies"
+      },
+      {
+        "label": "Terms",
+        "href": "/terms"
+      },
+      {
+        "label": "Complaints",
+        "href": "/complaints"
+      },
+      {
+        "label": "Accessibility",
+        "href": "/accessibility"
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page Not Found | Everyday Care Plus",
+    "description": "The page you requested could not be found. Visit Everyday Care Plus home care services or contact us for support.",
+    "h1": "Page not found",
+    "intro": "The page you requested does not exist or may have moved."
+  },
+  "assets": {
+    "module": "/assets/index-bsoarxm1.js",
+    "stylesheets": [
+      "/assets/index-lwumdtbf.css"
+    ],
+    "extraStylesheets": [
+      "/assets/service-card-enhancement.css"
+    ],
+    "deferScripts": [
+      "/assets/service-card-enhancement.js"
+    ]
+  }
+}

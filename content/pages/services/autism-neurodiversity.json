@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "services-autism-neurodiversity",
+  "order": 3,
+  "urlPath": "/services/autism-neurodiversity",
+  "title": "Autism & Neurodiversity Home Support in Sandwell & Dudley | Everyday Care Plus",
+  "description": "Structured, sensory-aware home support for autistic and neurodivergent adults in Sandwell and Dudley. Discuss personalised care with Everyday Care Plus.",
+  "h1": "Autism & Neurodiversity Support at Home",
+  "intro": "We provide structured, sensory-aware support designed around each individual’s preferences, communication style, routines, and goals.",
+  "sections": [
+    {
+      "heading": "A personalised approach",
+      "body": "Support is developed with the individual, their family, and relevant professionals where appropriate. We focus on predictability, respectful communication, and continuity."
+    },
+    {
+      "heading": "Discuss your needs",
+      "body": "An initial conversation helps us understand the kind of support that may be helpful and whether our service is the right fit."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "page",
+  "pageId": "complaints",
+  "order": 26,
+  "urlPath": "/complaints",
+  "title": "Complaints Policy | Everyday Care Plus",
+  "description": "Read the Everyday Care Plus complaints policy and how to raise a concern about our service.",
+  "h1": "Complaints Policy",
+  "intro": "We take concerns seriously and aim to deal with them respectfully, fairly, and in line with our published complaints process.",
+  "sections": [
+    {
+      "heading": "Raising a concern",
+      "body": "Please contact us directly so we can explain the appropriate next step and respond to your concern."
+    }
+  ]
+}

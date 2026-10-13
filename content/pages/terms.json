@@ -1,0 +1,16 @@
+{
+  "type": "page",
+  "pageId": "terms",
+  "order": 25,
+  "urlPath": "/terms",
+  "title": "Terms of Service | Everyday Care Plus",
+  "description": "Read the Everyday Care Plus website terms of service.",
+  "h1": "Terms of Service",
+  "intro": "These terms explain the conditions that apply to use of the Everyday Care Plus website.",
+  "sections": [
+    {
+      "heading": "Using this website",
+      "body": "Website information is provided for general information and should not replace professional, legal, financial, or medical advice."
+    }
+  ]
+}

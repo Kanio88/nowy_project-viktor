@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "services-respite-reablement",
+  "order": 6,
+  "urlPath": "/services/respite-reablement",
+  "title": "Respite & Reablement Care in Sandwell & Dudley | Everyday Care Plus",
+  "description": "Respite and reablement support for families in Sandwell and Dudley. Arrange flexible home care that supports independence and family carers.",
+  "h1": "Respite & Reablement Care",
+  "intro": "Respite care gives family carers time to rest, while reablement-focused support can help people build or maintain confidence with daily living.",
+  "sections": [
+    {
+      "heading": "Flexible support",
+      "body": "Care plans can be arranged around the family’s circumstances, including regular visits or temporary support when a carer needs a break."
+    },
+    {
+      "heading": "Supporting independence",
+      "body": "We work with the individual and family to understand priorities, routines, and realistic goals for maintaining independence at home."
+    }
+  ]
+}

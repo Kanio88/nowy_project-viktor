@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "services-companionship",
+  "order": 5,
+  "urlPath": "/services/companionship",
+  "title": "Companionship Care in Sandwell & Dudley | Everyday Care Plus",
+  "description": "Friendly companionship care in Sandwell and Dudley, with conversation, outings, practical support and meaningful routine at home.",
+  "h1": "Companionship Care at Home",
+  "intro": "Companionship visits provide friendly, dependable time with a trusted carer, helping people stay connected to their interests, routines, and community.",
+  "sections": [
+    {
+      "heading": "Meaningful visits",
+      "body": "Visits can include conversation, shared activities, local outings, practical help, and support to maintain a regular, enjoyable routine."
+    },
+    {
+      "heading": "Support for families",
+      "body": "Companionship can also offer reassurance to families who want a loved one to have regular social contact and support."
+    }
+  ]
+}
