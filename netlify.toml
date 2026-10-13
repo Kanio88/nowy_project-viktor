@@ -1,3 +1,12 @@
 [build]
   command = "npm run build"
   publish = "dist"
+
+# Installed from the Netlify UI; declared here only to supply inputs.
+# The compiled stylesheet imports webfonts from Google's CDN, which the build
+# network cannot reach reliably (ETIMEDOUT). Internal links are still checked.
+[[plugins]]
+  package = "netlify-plugin-checklinks"
+
+  [plugins.inputs]
+    skipPatterns = ["fonts.googleapis.com", "fonts.gstatic.com"]

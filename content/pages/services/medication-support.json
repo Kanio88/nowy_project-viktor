@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "services-medication-support",
+  "order": 7,
+  "urlPath": "/services/medication-support",
+  "title": "Medication Support at Home in Sandwell & Dudley | Everyday Care Plus",
+  "description": "Safe, person-centred medication support at home in Sandwell and Dudley. Speak to Everyday Care Plus about a tailored care assessment.",
+  "h1": "Medication Support at Home",
+  "intro": "Medication support is planned around the individual’s care needs, preferences, prescribed arrangements, and the responsibilities agreed in the care plan.",
+  "sections": [
+    {
+      "heading": "A careful care-plan approach",
+      "body": "We discuss the appropriate level of medication support during assessment and ensure the plan is clear for the individual, family, and care team."
+    },
+    {
+      "heading": "Talk to us first",
+      "body": "Contact us to discuss your circumstances and whether this service is suitable for the support you need."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "faq",
+  "order": 10,
+  "urlPath": "/faq",
+  "title": "Home Care FAQs for Sandwell & Dudley Families | Everyday Care Plus",
+  "description": "Answers to common home-care questions for families in Sandwell and Dudley, including assessments, visits, funding and getting started.",
+  "h1": "Frequently Asked Questions About Home Care",
+  "intro": "These answers address common questions from families who are considering care at home. Please contact us if you would like to discuss your own situation.",
+  "sections": [
+    {
+      "heading": "How do we begin?",
+      "body": "The first step is a conversation about the person’s needs, preferred routine, and the kind of support the family is looking for."
+    },
+    {
+      "heading": "Can support be tailored?",
+      "body": "Yes. Care planning should reflect the individual’s circumstances, preferences, and agreed goals."
+    }
+  ]
+}

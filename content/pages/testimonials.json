@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "testimonials",
+  "order": 9,
+  "urlPath": "/testimonials",
+  "title": "Home Care Testimonials | Everyday Care Plus",
+  "description": "Read feedback from families about Everyday Care Plus and our approach to compassionate home support in Sandwell and Dudley.",
+  "h1": "What Families Say About Everyday Care Plus",
+  "intro": "Families value care that is compassionate, dependable, and respectful. The feedback shared on this page reflects their experience of our service.",
+  "sections": [
+    {
+      "heading": "Considering home care",
+      "body": "We welcome questions from families who are comparing care options and want to understand what a first assessment is like."
+    },
+    {
+      "heading": "Start with a conversation",
+      "body": "Contact us for a no-obligation discussion about the kind of support you are looking for."
+    }
+  ]
+}

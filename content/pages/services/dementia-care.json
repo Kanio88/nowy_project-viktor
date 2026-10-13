@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "services-dementia-care",
+  "order": 2,
+  "urlPath": "/services/dementia-care",
+  "title": "Dementia Care at Home in Sandwell & Dudley | Everyday Care Plus",
+  "description": "Specialist dementia home care in Sandwell and Dudley, designed to maintain routine, dignity, safety and family confidence. Book a free assessment.",
+  "h1": "Dementia Care at Home",
+  "intro": "Our dementia care is planned to support familiarity, dignity, and day-to-day wellbeing for people living with dementia and the families who care about them.",
+  "sections": [
+    {
+      "heading": "What support can include",
+      "body": "Care may include routine-based visits, companionship, memory-supporting activities, meal support, medication reminders, overnight support, and practical reassurance for families."
+    },
+    {
+      "heading": "Planning care together",
+      "body": "We begin by listening to the individual and those close to them, then create a care plan that reflects established routines, communication preferences, and safety needs."
+    }
+  ]
+}

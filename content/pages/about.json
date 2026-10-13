@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "about",
+  "order": 8,
+  "urlPath": "/about",
+  "title": "About Everyday Care Plus | Home Care in Sandwell & Dudley",
+  "description": "Learn about Everyday Care Plus, a local home-care provider supporting adults and families across Sandwell and Dudley.",
+  "h1": "About Everyday Care Plus",
+  "intro": "Everyday Care Plus is a local home-care provider focused on respectful, person-centred support for adults and families across Sandwell and Dudley.",
+  "sections": [
+    {
+      "heading": "Our approach",
+      "body": "We listen first, create care plans around the individual, and aim to provide dependable support that feels personal, professional, and practical."
+    },
+    {
+      "heading": "Our local focus",
+      "body": "Being local helps us understand the communities we serve and makes it easier for families to speak with us about the support they need."
+    }
+  ]
+}

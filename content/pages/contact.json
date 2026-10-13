@@ -1,0 +1,16 @@
+{
+  "type": "page",
+  "pageId": "contact",
+  "order": 22,
+  "urlPath": "/contact",
+  "title": "Contact Everyday Care Plus | Home Care in Sandwell & Dudley",
+  "description": "Contact Everyday Care Plus to discuss home-care support for adults and families in Sandwell and Dudley. Call 07563 011 244.",
+  "h1": "Contact Everyday Care Plus",
+  "intro": "Talk to us about home care for yourself or a loved one. We will listen to your situation and explain the next steps clearly.",
+  "sections": [
+    {
+      "heading": "Get in touch",
+      "body": "Call 07563 011 244 or email greg@every-day-care.com. You can also request a free consultation through our booking page."
+    }
+  ]
+}

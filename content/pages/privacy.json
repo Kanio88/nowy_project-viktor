@@ -1,0 +1,16 @@
+{
+  "type": "page",
+  "pageId": "privacy",
+  "order": 23,
+  "urlPath": "/privacy",
+  "title": "Privacy Policy | Everyday Care Plus",
+  "description": "Read the Everyday Care Plus privacy policy and how personal information is handled when you contact us.",
+  "h1": "Privacy Policy",
+  "intro": "This page explains how Everyday Care Plus handles personal information. Please contact us if you have questions about your data.",
+  "sections": [
+    {
+      "heading": "Your privacy",
+      "body": "We aim to collect and use personal information responsibly and only as necessary for legitimate business and care-enquiry purposes."
+    }
+  ]
+}

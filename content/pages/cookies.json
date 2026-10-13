@@ -1,0 +1,16 @@
+{
+  "type": "page",
+  "pageId": "cookies",
+  "order": 24,
+  "urlPath": "/cookies",
+  "title": "Cookie Policy | Everyday Care Plus",
+  "description": "Read the Everyday Care Plus cookie policy and learn how cookies are used on this website.",
+  "h1": "Cookie Policy",
+  "intro": "This page explains how cookies and similar technologies may be used on the Everyday Care Plus website.",
+  "sections": [
+    {
+      "heading": "Managing cookies",
+      "body": "You can control cookies through your browser settings. Some website features may depend on certain cookies being available."
+    }
+  ]
+}

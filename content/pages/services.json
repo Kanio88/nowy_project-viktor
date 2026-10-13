@@ -1,0 +1,20 @@
+{
+  "type": "page",
+  "pageId": "services",
+  "order": 1,
+  "urlPath": "/services",
+  "title": "Home Care Services in Sandwell & Dudley | Everyday Care Plus",
+  "description": "Explore personalised home-care services in Sandwell and Dudley, including dementia care, autism support, personal care, companionship, respite and medication support.",
+  "h1": "Home Care Services for Sandwell & Dudley Families",
+  "intro": "We provide flexible, personalised home support designed around each person’s needs, preferences, routines, and family circumstances.",
+  "sections": [
+    {
+      "heading": "Specialist support at home",
+      "body": "Our service range includes dementia care, autism and neurodiversity support, personal care, companionship, respite and reablement, and medication support."
+    },
+    {
+      "heading": "Start with an assessment",
+      "body": "Contact us to discuss the kind of support you are looking for. We will explain the assessment process and next steps clearly."
+    }
+  ]
+}
